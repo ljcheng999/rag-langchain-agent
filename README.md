@@ -33,7 +33,7 @@ User Query → Router → [RAG | Web Search | Direct Answer] → Response
 ---
 ## 📋 Prerequisites
 
-- Python 3.8+
+- Python 3.8+ (recommended version: 3.13.11)
 - OpenAI API Key
 - Tavily API Key (for web search functionality)
 - Git
